@@ -22,6 +22,8 @@ String bpeLine = bpe.applyBPE(line);
 
 To build, execute `./gradlew build`.
 
+To build a jar, execute `./gradlew build jar`
+
 ## Test
 
 To test, execute `./gradlew test`.
