@@ -13,7 +13,7 @@ import org.mitre.jfastbpe.FastBPE;
 
 FastBPE bpe = new FastBPE(codesFile);
 
-String line = "The quick brown fox jumps over the lazy dog."
+String line = "The quick brown fox jumps over the lazy dog.";
 
 String bpeLine = bpe.applyBPE(line);
 ```
