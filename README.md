@@ -1,5 +1,7 @@
 # jFastBPE
 
+![Build](https://github.com/mitre/jfastbpe/workflows/Build/badge.svg)
+
 jFastBPE is a port of Guillaume Lample's [fastBPE](https://github.com/glample/fastBPE). 
 
 ## Features
